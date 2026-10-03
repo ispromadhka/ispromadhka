@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 2+ years deep in  neural architectures — building, breaking, and rebuilding smarter systems.  <br>
+🔭 3+ years deep in  neural architectures — building, breaking, and rebuilding smarter systems.  <br>
 🧠 Teaching the future: I mentor students in Machine Learning and Computer Networks, turning complex theory into hands-on intuition. <br>
 ⚡ Hackathon regular: From prototypes to podiums — I thrive under pressure, code through the night, and ship ideas that win. <br>
 🧮 Math is my native language: elegance in proofs, power in gradients, beauty in abstractions — if it’s rigorous, I love it.    <br>
